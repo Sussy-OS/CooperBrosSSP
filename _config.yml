@@ -20,7 +20,7 @@ author: JamesPi
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  SSP? What SSP?: "AboutSSPs"
   Resources:
     - Cooper Bro's Discord: "https://discord.gg/Gj8PcR3xnj"
 

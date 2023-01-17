@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About SSP
+title: About SSPs
 subtitle: What is an SSP?
 ---
 
