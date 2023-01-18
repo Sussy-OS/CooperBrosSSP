@@ -11,6 +11,17 @@ private world, with custom settings.
 
 What else do you need?
 
-### My story
+### Our story
 
-To be honest, I'm having some trouble remembering right now.. I like computers.
+Hello, there! I'm James, the creator of the server.
+I have for many years dreamed of being able to hang
+out with my friends while being stuck at home, and 
+then I found out how- a minecraft server! Currently,
+the server is whitlisted to only friends, but if you ask
+nicely, I might add you!
+
+____________________________________________________________________
+
+Hi, BenPi here, I am a Bedrock player who switched over
+to help make this server! I am the creator of
+the Minigames section, and moderator of the server discord and game.
