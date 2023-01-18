@@ -79,8 +79,6 @@ rss-description: This website is a virtual proof that I'm awesome
 # --- General options --- #
 ###########################
 
-paginate_path: "/announcements/page:num/"
-
 # Select which social network share links to show in posts
 share-links-active:
   twitter: false
