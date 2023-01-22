@@ -19,7 +19,7 @@ Hello, there! I'm James, the creator of the server.
 I have for many years dreamed of being able to hang
 out with my friends while being stuck at home, and 
 then I found out how- a minecraft server! Currently,
-the server is whitlisted to only friends, but if you ask
+the server is whitelisted to only friends, but if you ask
 nicely, I might add you!
 
 ____________________________________________________________________
