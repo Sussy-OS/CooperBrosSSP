@@ -20,7 +20,7 @@ I have for many years dreamed of being able to hang
 out with my friends while being stuck at home, and 
 then I found out how- a minecraft server! Currently,
 the server is whitelisted to only friends, but if you ask
-nicely, I might add you!
+nicely, I might add you! Website: https://james.just-logged-your-ip.lol/ and https://jamespi.carrd.co
 
 ____________________________________________________________________
 
