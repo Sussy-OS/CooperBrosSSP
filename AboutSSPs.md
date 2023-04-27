@@ -25,5 +25,5 @@ nicely, I might add you! Website: https://james.just-logged-your-ip.lol/ and htt
 ____________________________________________________________________
 
 Hi, BenPi here, I am a Bedrock player who switched over
-to help make this server! I am the creator of
+to help make this server! I am the ex-creator of
 the Minigames section, and moderator of the server discord and game.
