@@ -4,7 +4,7 @@ title: About SSPs
 subtitle: What is an SSP?
 ---
 
-IP: mc.cooperbrosssp.ml
+IP: mc.cooperbrosssp.top
 
 An SSP is a survival multiplayer (SMP) but has additions.
 
